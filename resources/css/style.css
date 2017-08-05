@@ -1,5 +1,5 @@
 .sectional{
-    background-image: url(resources/images/the-flatiron-building.png);
+    background-image:url(resources/images/the-flatiron-building.png);
     text-align: center;
     color: white;
 }
@@ -47,4 +47,9 @@ body {
   h1, h2, h3 {
     font-weight: bold;
     display: block;
+  }
+  .footer {
+    background-color: dimgray;
+    font-size: 11px;
+    color: white;
   }
