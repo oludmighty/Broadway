@@ -1,5 +1,5 @@
-.sectional{
-    background-image:url(resources/images/the-flatiron-building.png);
+.sectional {
+    background-image:href=(.resources/images/the-flatiron-building.png);
     text-align: center;
     color: white;
 }
